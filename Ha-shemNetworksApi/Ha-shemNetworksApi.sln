@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29111.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ha-shemNetworksApiCommon", "Ha-shemNetworksApiCommon\Ha-shemNetworksApiCommon.csproj", "{598C0898-9F09-4CC7-ADC1-DAF8F29975F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ha-shemNetworksApi.Api", "Ha-shemNetworksApi.Api\Ha-shemNetworksApi.Api.csproj", "{48611A71-E289-4DBD-BC32-CAD57A0D2F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ha-shemNetworksApi.DataAccessLayer", "Ha-shemNetworksApi.DataAccessLayer\Ha-shemNetworksApi.DataAccessLayer.csproj", "{E9E9EDDE-4EF7-4EC1-A6BD-496CDE2D443A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598C0898-9F09-4CC7-ADC1-DAF8F29975F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598C0898-9F09-4CC7-ADC1-DAF8F29975F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598C0898-9F09-4CC7-ADC1-DAF8F29975F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598C0898-9F09-4CC7-ADC1-DAF8F29975F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48611A71-E289-4DBD-BC32-CAD57A0D2F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48611A71-E289-4DBD-BC32-CAD57A0D2F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48611A71-E289-4DBD-BC32-CAD57A0D2F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48611A71-E289-4DBD-BC32-CAD57A0D2F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E9EDDE-4EF7-4EC1-A6BD-496CDE2D443A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E9EDDE-4EF7-4EC1-A6BD-496CDE2D443A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E9EDDE-4EF7-4EC1-A6BD-496CDE2D443A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E9EDDE-4EF7-4EC1-A6BD-496CDE2D443A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC4581D-8280-4184-9BAF-530F004C3688}
+	EndGlobalSection
+EndGlobal
